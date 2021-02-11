@@ -1,0 +1,18 @@
+# Python 
+__pycache__/
+.ipynb_checkpoints
+python_environment
+# IDE
+.idea/
+
+# resources of the workshop
+data/datasets/
+data/images/output/
+data/model.bin
+data/model.xml
+data/public
+data/practice/output.mp4
+data/configs/accuracy_aware/accuracy_checker_config.yml
+data/configs/accuracy_checker_config.yml
+data/configs/accuracy_checker_config_tf.yml
+data/configs/default/accuracy_checker_config.yml
